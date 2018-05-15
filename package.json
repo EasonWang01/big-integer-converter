@@ -1,7 +1,7 @@
 {
   "name": "big-integer-converter",
-  "version": "0.0.1",
-  "description": "Convert big integer between decimal, hex and binary.",
+  "version": "0.0.2",
+  "description": "Convert big integer to decimal, hex and binary.",
   "main": "index.js",
   "scripts": {
     "test": "node ./example/test.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EasonWang01/autogenAPI.git"
+    "url": "https://github.com/EasonWang01/big-integer-converter"
   },
   "keywords": [
     "gendoc"
@@ -17,7 +17,7 @@
   "author": "yicheng wang",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/EasonWang01/autogenAPI/issues"
+    "url": "https://github.com/EasonWang01/big-integer-converter"
   },
-  "homepage": "https://github.com/EasonWang01/autogenAPI#readme"
+  "homepage": "https://github.com/EasonWang01/big-integer-converter"
 }
