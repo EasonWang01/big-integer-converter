@@ -1,5 +1,3 @@
-#! /usr/bin/env node
-
 module.exports = {
   binToDec: require('./lib/binToDec').binToDec,
   binToHex: require('./lib/binToHex').binToHex,
