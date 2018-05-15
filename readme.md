@@ -1,12 +1,12 @@
-# #Install
+# Install
 
 ```
 yarn add big-integer-converter
 ```
 
-# #Usage
+# Usage
 
-```
+```js
 const converter = require('big-integer-converter');
 console.log(converter);
 
